@@ -1,0 +1,10 @@
+BIODATA
+
+Nama : Alvin
+Jenis kelamin : laki-laki
+Jurusan : Teknik Informatika
+NPM  : 140810180013
+TTL  : Cirebon,21 Mei 1999
+Umur : 19 tahun
+golongan darah : O+
+alamat kos : Pondok Nuraida Cisaladah
